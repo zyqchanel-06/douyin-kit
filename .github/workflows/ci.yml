@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    name: 语法与导入检查（离线，不访问抖音）
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.9', '3.11']
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: 编译全部模块
+        run: python -m compileall -q douyin_kit douyin.py
+
+      - name: 导入检查（不发起网络请求）
+        run: |
+          python -c "import douyin_kit.fetcher, douyin_kit.media, douyin_kit.report, douyin_kit.cli, douyin_kit.asr; print('imports ok')"
+
+      - name: CLI 入口可用
+        run: python douyin.py --help
