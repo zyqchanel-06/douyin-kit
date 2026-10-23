@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="474" viewBox="0 0 1180 474">
+<rect x="0" y="0" width="1180" height="474" rx="10" fill="#0d1117"/>
+<rect x="0" y="0" width="1180" height="42" rx="10" fill="#161b22"/>
+<rect x="0" y="32" width="1180" height="10" rx="0" fill="#161b22"/>
+<circle cx="22" cy="21" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="21" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="21" r="6" fill="#27c93f"/>
+<text x="1060" y="26" font-family="Consolas, Menlo, monospace" font-size="13" fill="#6e7681">douyin-kit</text>
+<text x="26" y="66" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#7ee787" xml:space="preserve">$ python douyin.py "https://v.douyin.com/yRTz0emmZDA/" --json</text>
+<text x="26" y="120" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#6e7681" xml:space="preserve">==============================================================</text>
+<text x="26" y="147" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">标题文案 : 号称可以逆向一切的REA 来了！ #科技 #模型 #ai #程序员</text>
+<text x="26" y="174" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">作者     : 算力炼丹炉（抖音号 48304051157）</text>
+<text x="26" y="201" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">发布时间 : 2026-10-12 10:35:11</text>
+<text x="26" y="228" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">话题     : #科技 #模型 #ai #程序员</text>
+<text x="26" y="255" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">数据     : 赞 18354 / 评论 942 / 收藏 11655 / 转发 4681</text>
+<text x="26" y="282" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#c9d1d9" xml:space="preserve">规格     : 27.9s  1080x1920</text>
+<text x="26" y="309" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#79c0ff" xml:space="preserve">无水印   : https://aweme.snssdk.com/aweme/v1/play/?line=0&amp;logo_name=aweme_diversi...</text>
+<text x="26" y="336" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#6e7681" xml:space="preserve">封面     : https://p3-sign.douyinpic.com/tos-cn-i-...</text>
+<text x="26" y="363" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#6e7681" xml:space="preserve">网页链接 : https://www.douyin.com/video/7695604320653446443</text>
+<text x="26" y="390" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#6e7681" xml:space="preserve">==============================================================</text>
+<text x="26" y="417" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" fill="#7ee787" xml:space="preserve">[JSON] out/7695604320653446443.json</text>
+</svg>

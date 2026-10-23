@@ -11,6 +11,8 @@
 - 视频解码用 PyAV，**不需要安装 ffmpeg.exe**
 - 输出 JSON / Markdown / 视频 / 封面 / 逐段时间轴文稿
 
+![命令行解析一条抖音链接的真实输出](docs/screenshots/cli-parse.svg)
+
 ---
 
 ## 安装
