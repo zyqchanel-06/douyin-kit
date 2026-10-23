@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本工具的产出目录
+out/
+
+# 媒体与缓存文件
+*.mp4
+*.webm
+*.webp
+*.jpg
+*.asr.json
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
