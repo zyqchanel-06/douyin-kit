@@ -3,6 +3,7 @@
 **抖音视频内容提取工具箱：分享链接 → 结构化信息 + 无水印直链 + 视频里说的话。**
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/zyqchanel-06/douyin-kit?color=blue)](https://github.com/zyqchanel-06/douyin-kit/releases)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 
 - 解析核心**零第三方依赖**（纯标准库），任何 Python 3.8+ 都能跑
